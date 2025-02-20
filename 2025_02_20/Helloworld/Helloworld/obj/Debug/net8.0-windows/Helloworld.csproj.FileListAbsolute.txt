@@ -1,0 +1,17 @@
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\bin\Debug\net8.0-windows\Helloworld.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\bin\Debug\net8.0-windows\Helloworld.deps.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\bin\Debug\net8.0-windows\Helloworld.runtimeconfig.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\bin\Debug\net8.0-windows\Helloworld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\bin\Debug\net8.0-windows\Helloworld.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.AssemblyInfoInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.AssemblyInfo.cs
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.sourcelink.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\refint\Helloworld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\Helloworld.genruntimeconfig.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\Helloworld\Helloworld\obj\Debug\net8.0-windows\ref\Helloworld.dll
